@@ -1,0 +1,12 @@
+# Site settings
+title: TOTO
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  如何加强农村儿童的急救知识并减少其心理问题.
+baseurl: "/clean" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
