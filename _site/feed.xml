@@ -4,10 +4,10 @@
     <title>TOTO</title>
     <description>如何加强农村儿童的急救知识并减少其心理问题.
 </description>
-    <link>http://yourdomain.com/clean/</link>
-    <atom:link href="http://yourdomain.com/clean/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 May 2021 10:49:05 +0800</pubDate>
-    <lastBuildDate>Fri, 21 May 2021 10:49:05 +0800</lastBuildDate>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 21 May 2021 11:19:14 +0800</pubDate>
+    <lastBuildDate>Fri, 21 May 2021 11:19:14 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -20,8 +20,8 @@
 
 </description>
         <pubDate>Thu, 25 Feb 2021 00:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/clean/jekyll/update/2021/02/25/our-journey.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/clean/jekyll/update/2021/02/25/our-journey.html</guid>
+        <link>http://yourdomain.com/jekyll/update/2021/02/25/our-journey.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2021/02/25/our-journey.html</guid>
         
         
         <category>jekyll</category>
@@ -38,8 +38,8 @@
 
 </description>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/clean/jekyll/update/2020/12/26/how-to-do.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/clean/jekyll/update/2020/12/26/how-to-do.html</guid>
+        <link>http://yourdomain.com/jekyll/update/2020/12/26/how-to-do.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2020/12/26/how-to-do.html</guid>
         
         
         <category>jekyll</category>
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Tue, 24 Nov 2020 00:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/clean/jekyll/update/2020/11/24/our-plan.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/clean/jekyll/update/2020/11/24/our-plan.html</guid>
+        <link>http://yourdomain.com/jekyll/update/2020/11/24/our-plan.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2020/11/24/our-plan.html</guid>
         
         
         <category>jekyll</category>
