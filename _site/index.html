@@ -11,9 +11,9 @@
 ">
   <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:600' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://yourdomain.com/">
-  <link rel="alternate" type="application/rss+xml" title="TOTO" href="http://yourdomain.com/feed.xml" />
+  <link rel="stylesheet" href="/ctb/css/main.css">
+  <link rel="canonical" href="http://yourdomain.com/ctb/">
+  <link rel="alternate" type="application/rss+xml" title="TOTO" href="http://yourdomain.com/ctb/feed.xml" />
 </head>
 
 
@@ -41,7 +41,7 @@
         <nav class="site-nav">
             
               
-              <a class="page-link" href="/about/">About</a>
+              <a class="page-link" href="/ctb/about/">About</a>
               
             
               
@@ -58,21 +58,21 @@
   <ul class="post-list">
     
       <li>
-          <a class="post-link" href="/jekyll/update/2021/02/25/our-journey.html">
+          <a class="post-link" href="/ctb/jekyll/update/2021/02/25/our-journey.html">
             我们的行程
             <div class="post-meta">Feb 25, 2021</div>
           </a>
       </li>
     
       <li>
-          <a class="post-link" href="/jekyll/update/2020/12/26/how-to-do.html">
+          <a class="post-link" href="/ctb/jekyll/update/2020/12/26/how-to-do.html">
             怎么做
             <div class="post-meta">Dec 26, 2020</div>
           </a>
       </li>
     
       <li>
-          <a class="post-link" href="/jekyll/update/2020/11/24/our-plan.html">
+          <a class="post-link" href="/ctb/jekyll/update/2020/11/24/our-plan.html">
             我们的计划
             <div class="post-meta">Nov 24, 2020</div>
           </a>
@@ -91,7 +91,7 @@
     var secondSel = document.querySelector(".seconds");
 
     secondSel.style.transform = "rotate(" + sdegree + "deg) translate(160px) rotate(-" + sdegree + "deg)";
-    secondSel.innerHTML = seconds;
+
 
     var minutes = new Date().getMinutes();
     var mdegree = minutes * 6 + 270;
@@ -99,7 +99,7 @@
     minutes = ("0" + minutes).slice(-2);
 
     minutesSel.style.transform = "rotate(" + mdegree + "deg) translate(181px) rotate(-" + mdegree + "deg)";
-    minutesSel.innerHTML =  minutes;
+
 
     var hours = new Date().getHours();
     var hoursSel = document.querySelector(".hours");
@@ -110,7 +110,6 @@
 
     hours = ("0" + hours).slice(-2);
 
-    hoursSel.innerHTML = hours;
   }, 1000);
 
   var btnSel = document.querySelector('.btn');
